@@ -1,1 +1,1 @@
-# cpu-t-void-linux
+# Your version is an old version of CPU-T.
